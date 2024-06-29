@@ -1,3 +1,5 @@
+![image](https://github.com/bhautik2004/Codexcue-React-internship-Task-1-Counter-App/assets/125660375/c2a7e3c2-687c-4b2a-ab43-757e48843f0e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
